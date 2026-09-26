@@ -1,0 +1,180 @@
+
+> backend@1.0.0 dev
+> nodemon server.js
+
+[33m[nodemon] 3.1.14[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+Server running on port 5001
+MongoDB Connected: ac-l2wyjsv-shard-00-00.4zeutki.mongodb.net
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+Server running on port 5001
+MongoDB Connected: ac-l2wyjsv-shard-00-00.4zeutki.mongodb.net
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ⌘ enable debugging { debug: true }
+Server running on port 5001
+MongoDB Connected: ac-l2wyjsv-shard-00-01.4zeutki.mongodb.net
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+Server running on port 5001
+MongoDB Connected: ac-l2wyjsv-shard-00-02.4zeutki.mongodb.net
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+Server running on port 5001
+MongoDB Connected: ac-l2wyjsv-shard-00-01.4zeutki.mongodb.net
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+Server running on port 5001
+MongoDB Connected: ac-l2wyjsv-shard-00-00.4zeutki.mongodb.net
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+Server running on port 5001
+MongoDB Connected: ac-l2wyjsv-shard-00-01.4zeutki.mongodb.net
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+Server running on port 5001
+MongoDB Connected: ac-l2wyjsv-shard-00-01.4zeutki.mongodb.net
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+Server running on port 5001
+MongoDB Connected: ac-l2wyjsv-shard-00-00.4zeutki.mongodb.net
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+Server running on port 5001
+MongoDB Connected: ac-l2wyjsv-shard-00-01.4zeutki.mongodb.net
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+Server running on port 5001
+MongoDB Connected: ac-l2wyjsv-shard-00-00.4zeutki.mongodb.net
+[0mOPTIONS /api/auth/login [32m204[0m 4.393 ms - 0[0m
+[0mPOST /api/auth/login [32m200[0m 137.338 ms - 278[0m
+[0mOPTIONS /api/resumes [32m204[0m 1.535 ms - 0[0m
+[0mPOST /api/resumes [32m201[0m 356.437 ms - 417[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ⌘ override existing { override: true }
+Server running on port 5001
+MongoDB Connected: ac-l2wyjsv-shard-00-01.4zeutki.mongodb.net
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+Server running on port 5001
+MongoDB Connected: ac-l2wyjsv-shard-00-02.4zeutki.mongodb.net
+[0mOPTIONS /api/resumes [32m204[0m 4.092 ms - 0[0m
+[0mPOST /api/resumes [32m201[0m 107.653 ms - 512[0m
+[0mOPTIONS /api/contact [32m204[0m 0.590 ms - 0[0m
+[0mPOST /api/contact [32m201[0m 57.441 ms - 209[0m
+[0mOPTIONS /api/auth/login [32m204[0m 1.214 ms - 0[0m
+[0mPOST /api/auth/login [32m200[0m 137.477 ms - 278[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.325 ms - 0[0m
+[0mPOST /api/auth/login [32m200[0m 123.373 ms - 280[0m
+[0mGET /api/resources [32m200[0m 45.572 ms - 2[0m
+[0mOPTIONS /api/contact [32m204[0m 0.675 ms - 0[0m
+[0mGET /api/resources [36m304[0m 35.675 ms - -[0m
+[0mGET /api/contact [32m200[0m 80.093 ms - 442[0m
+[0mGET /api/resources [36m304[0m 42.809 ms - -[0m
+[0mOPTIONS /api/resources [32m204[0m 0.450 ms - 0[0m
+[0mPOST /api/resources [32m201[0m 101.208 ms - 227[0m
+[0mGET /api/resources [32m200[0m 42.205 ms - 229[0m
+[0mOPTIONS /api/contact [32m204[0m 0.553 ms - 0[0m
+[0mGET /api/resources [36m304[0m 49.965 ms - -[0m
+[0mGET /api/contact [36m304[0m 110.053 ms - -[0m
+[0mGET /api/resources [36m304[0m 34.723 ms - -[0m
+[0mGET /api/resources [36m304[0m 36.049 ms - -[0m
+[0mGET /api/resources [36m304[0m 36.241 ms - -[0m
+[0mOPTIONS /api/contact [32m204[0m 0.530 ms - 0[0m
+[0mGET /api/resources [36m304[0m 40.508 ms - -[0m
+[0mGET /api/contact [36m304[0m 77.414 ms - -[0m
+[0mOPTIONS /api/contact/69fe6af91732a896c09445c2 [32m204[0m 0.417 ms - 0[0m
+[0mDELETE /api/contact/69fe6af91732a896c09445c2 [32m200[0m 118.238 ms - 29[0m
+[0mGET /api/contact [32m200[0m 74.043 ms - 211[0m
+[0mOPTIONS /api/contact/69fe7036537cf64e3a9bfe5d [32m204[0m 0.375 ms - 0[0m
+[0mDELETE /api/contact/69fe7036537cf64e3a9bfe5d [32m200[0m 122.666 ms - 29[0m
+[0mGET /api/contact [32m200[0m 76.473 ms - 2[0m
+[0mGET /api/resources [36m304[0m 37.383 ms - -[0m
+[0mGET /api/resources [36m304[0m 44.205 ms - -[0m
+[0mOPTIONS /api/auth/login [32m204[0m 1.050 ms - 0[0m
+[0mPOST /api/auth/login [33m401[0m 40.018 ms - 39[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.490 ms - 0[0m
+[0mPOST /api/auth/login [32m200[0m 119.236 ms - 278[0m
+[0mOPTIONS /api/auth/login [32m204[0m 1.221 ms - 0[0m
+[0mPOST /api/auth/login [32m200[0m 124.804 ms - 278[0m
+[0mOPTIONS /api/resumes [32m204[0m 0.436 ms - 0[0m
+[0mPOST /api/resumes [32m201[0m 100.528 ms - 517[0m
+[0mOPTIONS /api/resumes [32m204[0m 0.486 ms - 0[0m
+[0mPOST /api/resumes [32m201[0m 84.841 ms - 517[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.331 ms - 0[0m
+[0mPOST /api/auth/login [32m200[0m 120.051 ms - 278[0m
+[0mOPTIONS /api/resumes [32m204[0m 0.509 ms - 0[0m
+[0mPOST /api/resumes [32m201[0m 91.994 ms - 517[0m
+[0mOPTIONS /api/resumes [32m204[0m 1.101 ms - 0[0m
+[0mPOST /api/resumes [32m201[0m 106.927 ms - 517[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.465 ms - 0[0m
+[0mPOST /api/auth/login [32m200[0m 120.074 ms - 278[0m
+[0mOPTIONS /api/resumes [32m204[0m 0.613 ms - 0[0m
+[0mPOST /api/resumes [32m201[0m 95.092 ms - 517[0m
+[0mOPTIONS /api/resumes [32m204[0m 0.495 ms - 0[0m
+[0mPOST /api/resumes [32m201[0m 86.546 ms - 512[0m
+[0mOPTIONS /api/auth/register [32m204[0m 0.300 ms - 0[0m
+[0mPOST /api/auth/register [32m201[0m 169.169 ms - 280[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.517 ms - 0[0m
+[0mPOST /api/auth/login [32m200[0m 120.633 ms - 280[0m
+[0mOPTIONS /api/auth/profile [32m204[0m 0.296 ms - 0[0m
+[0mPUT /api/auth/profile [32m200[0m 198.682 ms - 280[0m
+[0mOPTIONS /api/auth/login [32m204[0m 1.120 ms - 0[0m
+[0mPOST /api/auth/login [33m401[0m 385.394 ms - 39[0m
+[0mOPTIONS /api/auth/register [32m204[0m 0.257 ms - 0[0m
+[0mPOST /api/auth/register [32m201[0m 176.066 ms - 271[0m
+[0mOPTIONS /api/resumes [32m204[0m 0.444 ms - 0[0m
+[0mPOST /api/resumes [32m201[0m 95.317 ms - 517[0m
+[0mOPTIONS /api/resumes [32m204[0m 1.152 ms - 0[0m
+[0mPOST /api/resumes [32m201[0m 96.565 ms - 517[0m
+[0mOPTIONS /api/auth/register [32m204[0m 1.912 ms - 0[0m
+[0mPOST /api/auth/register [32m201[0m 457.212 ms - 283[0m
+[0mOPTIONS /api/resumes [32m204[0m 1.119 ms - 0[0m
+[0mPOST /api/resumes [32m201[0m 123.524 ms - 516[0m
+[0mOPTIONS /api/resumes [32m204[0m 1.096 ms - 0[0m
+[0mPOST /api/resumes [32m201[0m 413.099 ms - 512[0m
+[0mOPTIONS /api/auth/login [32m204[0m 1.897 ms - 0[0m
+[0mPOST /api/auth/login [31m500[0m 30006.258 ms - 178[0m
+[0mPOST /api/auth/login [31m500[0m 30002.581 ms - 178[0m
+[0mPOST /api/auth/login [31m500[0m 30003.290 ms - 178[0m
+[0mOPTIONS /api/auth/register [32m204[0m 0.835 ms - 0[0m
+[0mOPTIONS /api/auth/register [32m204[0m 0.362 ms - 0[0m
+[0mPOST /api/auth/register [31m500[0m 30003.792 ms - 78[0m
+[0mPOST /api/auth/register [31m500[0m 30003.514 ms - 78[0m
+[0mPOST /api/auth/register [31m500[0m 30002.958 ms - 78[0m
+[0mPOST /api/auth/register [31m500[0m 30002.151 ms - 78[0m
+[0mPOST /api/auth/register [31m500[0m 30003.094 ms - 78[0m
+[0mPOST /api/auth/register [31m500[0m 30003.270 ms - 78[0m
+[0mPOST /api/auth/register [31m500[0m 30001.985 ms - 78[0m
+[0mPOST /api/auth/login [33m429[0m 1.858 ms - 54[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+Server running on port 5001
+Failed to seed admin: Operation `users.findOne()` buffering timed out after 10000ms
+Error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+◇ injected env (5) from .env // tip: ⌘ override existing { override: true }
+Server running on port 5001
+Failed to seed admin: Operation `users.findOne()` buffering timed out after 10000ms
+Error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
